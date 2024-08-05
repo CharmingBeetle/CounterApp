@@ -1,0 +1,82 @@
+
+body {
+    background-image: url(./luis-arias-j0aQvd0zIyg-unsplash.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    font-family: "Abril Fatface", serif;
+    font-style: normal;
+    letter-spacing: 1px;
+    text-align: center;
+    color: aliceblue;
+    background-size: cover;
+    text-shadow: 1px 1px black;
+    
+}
+
+.container {
+    background: #3da4ee80;
+    background-size: contain;
+    max-width: 80%;
+    padding: 65px;
+    margin: auto;
+    border-radius: 50px;
+    
+}
+h1 {
+    padding-bottom: 30px;
+}
+h3 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 75px;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 50px;
+    
+}
+
+
+#increment-btn {
+    margin: 20px;
+    background: rgb(213, 108, 42);
+    box-shadow: 2px 2px black;
+    width: 100px;
+    height: 75px;
+}
+
+#increment-btn:active {
+    color: #3da4ee;
+    width: 90px;
+    height: 65px;
+}
+
+#save-btn {
+    margin: 20px;
+    background: rgb(24, 167, 24);
+    box-shadow: 2px 2px black;
+    width: 100px;
+    height: 75px;
+}
+#save-btn:active {
+    color: #3da4ee;
+    width: 90px;
+    height: 65px;
+}
+
+
+#save-el {
+    padding: 50px;
+    margin: 0px;
+}
+
